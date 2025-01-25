@@ -4,7 +4,6 @@ A repository containing Data Structures and Algorithms (DSA) practice problems s
 Topics Covered
 
 Arrays: Searching, Sorting, and Optimization problems.
-
 Linked Lists: Single and Double Linked Lists operations.
 Recursion: Factorials, Permutations, and Backtracking problems.
 Stacks & Queues: Implementation and problem-solving.
