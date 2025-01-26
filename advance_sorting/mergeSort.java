@@ -1,5 +1,3 @@
-package advance_sorting;
-
 public class mergeSort {
     public static void merge(int a[],int b[],int c[]) {
           int i=0,j=0,k=0;

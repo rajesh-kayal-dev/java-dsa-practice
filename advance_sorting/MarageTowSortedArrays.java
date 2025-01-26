@@ -1,4 +1,3 @@
-package advance_sorting;
 
 import java.util.Scanner;
 
