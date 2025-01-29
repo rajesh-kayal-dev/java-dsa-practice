@@ -14,7 +14,7 @@ public class binarySearch {
                 flag= true;
                 break;
             }
-            else if (arr[mid]< target) high = mid + 1;
+            else if (arr[mid]< target) low = mid + 1;
             else if (arr[mid]> target) high = mid - 1;
         }
         if(flag == true) System.out.println("Target Present");
